@@ -1,6 +1,4 @@
 Instrucciones
 
-dfklafd
-fdsaf
-fdsafsa
-dfsadfa
+primeros pasos para hacer el desarrollo de la aplicacion
+
